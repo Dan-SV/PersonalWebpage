@@ -1,0 +1,15 @@
+.header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: black;
+    height: 60px;
+    text-align: left;
+    border-bottom: 2px solid #11b1ee;
+}
+.headerText{
+    padding: 0;
+    margin: 5px;
+    color: #11b1ee;
+    font-family: Arial, Helvetica, sans-serif;
+}

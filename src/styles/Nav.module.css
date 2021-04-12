@@ -1,0 +1,19 @@
+.menu{
+    width: 300px;
+    position: absolute;
+    top:0;
+    right:0;
+    text-align: right;
+}
+.list{
+    padding: 0;
+    margin: 0;
+}
+.listItem{
+    padding: 5px;
+    list-style-type: none;
+    display: inline;
+}
+.link{
+    color: #11b1ee;
+}

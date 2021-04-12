@@ -1,0 +1,9 @@
+.container{
+    position: fixed;
+    top: 62px;
+    bottom: 40px;
+    width: 100%;
+    min-height: 50%;
+    background-color: #085978;
+    overflow-y: auto;
+}

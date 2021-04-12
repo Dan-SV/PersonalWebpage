@@ -1,0 +1,14 @@
+[
+    {
+        "id": 0,
+        "credential": "Test",
+        "detail": "--detail",
+        "additional": "--",
+        "institution": "--",
+        "startDate": "--",
+        "gradDate": "--",
+        "location": "Online",
+        "image": "../../img/networks.jpeg",
+        "skills": ["GitHub"]
+    }
+]

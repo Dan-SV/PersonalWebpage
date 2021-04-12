@@ -1,0 +1,73 @@
+.panel{
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: white;
+    padding: 0;
+    height: inherit;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.hAlignPane{
+    display: table-cell;
+    vertical-align: middle;
+    height: 50%;
+    margin: 0 auto;
+}
+.vAlignPane{
+    display: table;
+    height: 100%;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.innerPane{
+    margin: auto;
+    width: 50%;
+    min-width: 300px;
+    color:black;
+    padding: 5px;
+    border-radius: 20px;
+    background: rgba(255,255,255, 0.85);
+}
+.button{
+    width: 100%;
+    background-color: green;
+    color: white;
+}
+.hList{
+    padding: 0;
+    white-space: normal;
+}
+.skillItem{
+    max-width: 100%;
+    display: inline;
+    margin: 5px;
+}
+.skillItemButton{
+    padding: 4px;
+    color:white;
+    background-color: #085978;
+    border-radius: 10px;
+    cursor: auto;
+    pointer-events: none;
+    border: none;
+}
+.itemButton{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(35,35, 35);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.endLine{
+    border-width: 1px;
+    color:rgb(75, 75, 75);
+    padding:0;
+    width: 80%;
+    margin-top:0;
+    margin-bottom:0;
+    margin-left:auto;
+    margin-right: auto;
+}
